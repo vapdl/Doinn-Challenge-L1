@@ -52,5 +52,5 @@ INSERT INTO `areas` ( `lat`, `lng`, `name` ) VALUES ('-9.41272831','38.70748634'
 
 ###Google Maps
 
-http://maps.google.com/maps/api/geocode/json?address='.$address.'&sensor=false
+http://maps.google.com/maps/api/geocode/json?sensor=false&address=
 
