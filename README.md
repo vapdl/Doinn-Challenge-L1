@@ -4,7 +4,7 @@
 
 ### Português
 
-O desafio é descobrir se um endereço pertence a: AREA 1, AREA 2 ou NENHUMA.
+O desafio é descobrir se um endereço pertence a AREA 1, AREA 2 ou NENHUMA.
 
 Criar uma API Restful que recebe os endereços:
 
