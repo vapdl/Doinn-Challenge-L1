@@ -20,12 +20,37 @@ Para cada requisição deve-se efetuar uma outra requisição ao Google Maps API
 
 Retornar um JSON com a área.
 
+#### Exemplo
+
+{
+"address":"area 1"
+}
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
+### English
+
+The challenge is build an API Restful that check if a certain address belongs to AREA 1, AREA 2 or none of them.
+
+The API must recieve the addresses bellow as parameters:
+
+1. Av Casal Ribeiro, 28, Lisbon, Portugal
+
+2. Rua Eng D.António Castelo Branco 184, Cascais, Portugal
+
+3. Av. Infante Dom Henrique 1, Lisbon, Portugal
+
+4. R. Luis Xavier Palmeirim, Cascais, Portugal
+
+For each request to API make another to Google Maps API, to get the latitude and longitude and check the AREAS table. So, return a JSON with the area that the address belongs.
+
 #### Example
 
 {
 "address":"area 1"
 }
 
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
 ### Framework
 
