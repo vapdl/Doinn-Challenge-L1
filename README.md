@@ -32,7 +32,7 @@ Retornar um JSON com a área.
 
 The challenge is build an API Restful that check if a certain address belongs to AREA 1, AREA 2 or none of them.
 
-The API must recieve the addresses bellow as parameters:
+The API must receive the addresses bellow as parameters:
 
 1. Av Casal Ribeiro, 28, Lisbon, Portugal
 
