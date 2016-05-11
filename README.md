@@ -57,7 +57,7 @@ For each request to API make another to Google Maps API, to get the latitude and
 Laravel 5.1
 
 
-###Database Structure - SQL
+###Table Structure - SQL
 
 CREATE TABLE `areas` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
