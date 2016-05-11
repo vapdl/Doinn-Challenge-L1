@@ -2,6 +2,31 @@
 
 ![alt tag](http://i67.tinypic.com/5n6gir.png)
 
+### Português
+
+O desafio é descobrir se um endereço pertence a: AREA 1, AREA 2 ou NENHUMA.
+
+Criar uma API Restful que recebe os endereços:
+
+1. Av Casal Ribeiro, 28, Lisboa, Portugal
+
+2. Rua Eng D.António Castelo Branco 184,Cascais,Portugal
+
+3. Av. Infante Dom Henrique 1,Lisboa,Portugal
+
+4. R. Luís Xavier Palmeirim, Cascais,Portugal 
+
+Para cada requisição deve-se efetuar uma outra requisição ao Google Maps API, receber o JSON com a Latitude e Longitude do endereço, verificar na tabela AREAS a qual área o endereço pertence. 
+
+Retornar um JSON com a área.
+
+#### Example
+
+{
+"address":"area 1"
+}
+
+
 ### Framework
 
 Laravel 5.1
