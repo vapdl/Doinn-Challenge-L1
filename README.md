@@ -42,7 +42,7 @@ The API must recieve the addresses bellow as parameters:
 
 4. R. Luis Xavier Palmeirim, Cascais, Portugal
 
-For each request to API make another to Google Maps API, to get the latitude and longitude and check the AREAS table. So, return a JSON with the area that the address belongs.
+For each request to API make another to Google Maps API, to get the latitude and longitude and check the AREAS table. Finaly, return a JSON with the area that the address belongs.
 
 #### Example
 
