@@ -1,3 +1,5 @@
+DOWNLOAD AND EXTRACT THE CODE FROM ZIP FILE!!!!!
+
 # Doinn - Challenge - L1
 
 ![alt tag](http://i67.tinypic.com/5n6gir.png)
